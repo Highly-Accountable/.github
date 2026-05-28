@@ -1,11 +1,11 @@
 Security Policy
 Our Commitment
-At DisclosureDelta, the security of our infrastructure and the privacy of our users' data are our highest priorities. We appreciate the work of security researchers in keeping the digital community safe.
+At Highly Accountable, the security of our infrastructure and the privacy of our users' data are our highest priorities. We appreciate the work of security researchers in keeping the digital community safe.
 
 Reporting a Vulnerability
 If you discover a potential security vulnerability, please do not open a public GitHub issue. Instead, please report it directly to our security team.
 
-Email: security@disclosuredelta.com
+Email: security@highlyaccountable.com
 
 Expected Response Time: We acknowledge receipt of vulnerability reports within 48 business hours.
 
@@ -23,6 +23,6 @@ We follow a coordinated disclosure model. We ask that you give us a reasonable a
 Scope
 This policy applies to:
 
-All repositories under the DisclosureDelta organization.
+All repositories under the Highly Accountable organization.
 
 Production environments hosted on Render and Supabase associated with our primary domain.
